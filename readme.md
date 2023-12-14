@@ -36,7 +36,7 @@ Aşağıda istenilen sonuçlara ulaşabilmek için gerekli SQL sorgularını alt
 	
 	3) Öğrenci tablosundaki kız öğrencileri listeleyin. 
 
-        CEVAP: 	SELECT * FROM ogrenci WHERE cinsiyet="K"
+        CEVAP: SELECT * FROM ogrenci WHERE cinsiyet="K"
 	
 	4) Öğrenci tablosunda kaydı bulunan sınıfların adını her sınıf bir kez görüntülenecek şekilde listeleyiniz
 	
